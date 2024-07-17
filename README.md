@@ -1,10 +1,10 @@
-## Last updated at July 16th 2024, 7:00:00 am
+## Last updated at July 17th 2024, 7:00:00 am
 
 ## Applications
 
 | Name                | Status|
 | :------------------ | :---- |
-| `Dashboard`         | `OK`  |
+| `Dashboard`         | ``  |
 | `Vaultwarden`       | `OK`  |
 | `Mealie`            | `OK`  |
 | `Deluge`            | `OK`  |
