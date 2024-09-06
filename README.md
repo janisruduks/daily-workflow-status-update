@@ -1,4 +1,4 @@
-## Last updated at September 5th 2024, 7:00:00 am
+## Last updated at September 6th 2024, 7:00:00 am
 
 ## Applications
 
@@ -15,5 +15,5 @@
 | Name                | Status|
 | :------------------ | :---- |
 | `Website 1`         | `OK`  |
-| `Website 2`         | `OK`  |
+| `Website 2`         | `Bad Gateway`  |
 | `Website 3`         | `OK`  | 
