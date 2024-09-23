@@ -1,4 +1,4 @@
-## Last updated at September 22nd 2024, 7:00:19 am
+## Last updated at September 23rd 2024, 7:00:19 am
 
 ## Applications
 
@@ -6,7 +6,7 @@
 | :------------------ | :---- |
 | `Dashboard`         | `OK`  |
 | `Vaultwarden`       | `OK`  |
-| `Mealie`            | `OK`  |
+| `Mealie`            | `Bad Gateway`  |
 | `Deluge`            | `OK`  |
 | `Workflow Platform` | `OK`  |
 
