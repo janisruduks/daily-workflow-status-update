@@ -1,4 +1,4 @@
-## Last updated at March 8th 2025, 7:00:33 am
+## Last updated at March 9th 2025, 7:00:33 am
 
 ## Applications
 
@@ -7,7 +7,7 @@
 | `Dashboard`         | `OK`  |
 | `Vaultwarden`       | `OK`  |
 | `Mealie`            | `Bad Gateway`  |
-| `Deluge`            | `Bad Gateway`  |
+| `Deluge`            | `OK`  |
 | `Workflow Platform` | `OK`  |
 
 ## Websites
