@@ -1,11 +1,11 @@
-## Last updated at March 25th 2025, 7:00:43 am
+## Last updated at March 26th 2025, 7:00:18 am
 
 ## Applications
 
 | Name                | Status|
 | :------------------ | :---- |
 | `Dashboard`         | `OK`  |
-| `Vaultwarden`       | `OK`  |
+| `Vaultwarden`       | `Bad Gateway`  |
 | `Mealie`            | `Bad Gateway`  |
 | `Deluge`            | `OK`  |
 | `Workflow Platform` | `OK`  |
