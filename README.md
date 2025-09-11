@@ -1,4 +1,4 @@
-## Last updated at September 10th 2025, 7:00:06 am
+## Last updated at September 11th 2025, 7:00:38 am
 
 ## Applications
 
@@ -11,6 +11,6 @@
 
 | Name                | Status|
 | :------------------ | :---- |
-| `Website 1`         | `OK`  |
+| `Website 1`         | `Internal Server Error`  |
 | `Website 2`         | `OK`  |
 | `Website 3`         | `OK`  | 
